@@ -2,7 +2,8 @@
 
 
 <h2>Description</h2>
-This project would analyze any CCTV feed in real time to detect any suspicious activity. The model in the project is trained on UCF crime dataset.
+This project would analyze any CCTV feed in real time to detect any suspicious activity.Suspicious behavior might include any of the illegal activites like stealing,shoplifting, burglary,vandalism,robbery,abuse etc.
+The model in the project is trained on UCF crime dataset.
 Dataset link: https://www.kaggle.com/datasets/minhajuddinmeraj/anomalydetectiondatasetucf?resource=download
 
 <br />
